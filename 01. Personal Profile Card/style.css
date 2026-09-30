@@ -8,16 +8,58 @@ body{
 }
 
 .profile-card{
-    
+    padding: 20px;
     height: 400px;
-    width: 350px;
+    max-width: 350px;
     background-color: rgb(13, 15, 17);
     align-items: center;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 24px;
+    
+    
 }
 .profile-card img{
-    height: 180px;
-    width: 150px;
+    height: 150px;
+    width: 100px;
     border-radius: 70px;
     object-fit: cover;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.info h1{
+    font-size: 24px;
+    color: #fff;
+    margin: 0;
+}
+
+.info p {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(156, 168, 180);
+
+
+}
+.social-links ul{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    list-style: none;
+}
+.social-links ul li a{
+    color: rgb(156, 168, 180);
+    font-size: 18px;
+    text-decoration: none;
+
+}
+
+.social-links ul li a:hover{
+    color: rgb(7, 119, 231);
 }
