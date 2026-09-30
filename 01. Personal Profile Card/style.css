@@ -1,0 +1,23 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+.profile-card{
+    
+    height: 400px;
+    width: 350px;
+    background-color: rgb(13, 15, 17);
+    align-items: center;
+    border-radius: 10px;
+}
+.profile-card img{
+    height: 180px;
+    width: 150px;
+    border-radius: 70px;
+    object-fit: cover;
+}
