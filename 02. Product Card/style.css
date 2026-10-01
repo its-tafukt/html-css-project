@@ -1,0 +1,17 @@
+.card{
+    height: 250px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(250, 196, 196);
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+ .card img{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    
+ }
