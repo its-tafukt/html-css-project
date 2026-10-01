@@ -9,3 +9,11 @@ A collection of A a couple of beginner-friendly projects to practice HTML and CS
 - Name and bio
 - Social links
 - Card styling
+
+### 02. Product Card
+
+- Product image
+- Product name
+- Price
+- Rating
+- Add to Cart button
