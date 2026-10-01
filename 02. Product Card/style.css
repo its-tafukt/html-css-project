@@ -59,3 +59,15 @@ body{
     width: 100%;
 
  }
+
+ @media (max-width: 480px){
+    body {
+    grid-template-columns: 1fr;
+  }
+ }
+
+  @media (max-width: 768px){
+    body {
+    grid-template-columns: repeat(2, 1fr);
+    }
+ }
