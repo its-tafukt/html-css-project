@@ -1,0 +1,31 @@
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(229, 227, 231);
+      min-height: 400px;
+}
+
+form{
+    background-color: rgb(146, 103, 185);;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 20px;
+    border-radius: 10px;
+   
+}
+
+Form h1{
+    color: aliceblue;
+    align-items: center;
+    font-size: 30px;
+}
+form div{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
