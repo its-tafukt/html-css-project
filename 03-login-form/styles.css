@@ -8,7 +8,7 @@ body{
 }
 
 form{
-    background-color: rgb(146, 103, 185);;
+    background-color: rgb(146, 103, 185);
     width: 300px;
     height: 400px;
     display: flex;
@@ -20,12 +20,31 @@ form{
 }
 
 Form h1{
-    color: aliceblue;
+    color: rgb(19, 2, 36);;
     align-items: center;
     font-size: 30px;
+    margin-bottom: 24px;
 }
 form div{
     display: flex;
     flex-direction: column;
     gap: 20px;
+}
+
+
+form label{
+    color: rgb(54, 4, 100);
+    font-size: 20px;
+}
+
+form input{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    border-bottom: 1px solid white;
+    border-radius: 0;
+    color: white;
+
 }
