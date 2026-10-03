@@ -21,7 +21,7 @@ form{
    
 }
 form p{
-    color:rgb(176, 182, 187);
+    color:rgb(197, 203, 207);
     font-size: 18px;
     margin-bottom: 10px;
 }
@@ -64,4 +64,10 @@ form button{
     background-color: white;
     font-weight: bold;
     cursor: pointer;
+}
+
+form .checkbox{
+    display: inline;
+   
+   
 }
