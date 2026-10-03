@@ -17,3 +17,11 @@ A collection of A a couple of beginner-friendly projects to practice HTML and CS
 - Price
 - Rating
 - Add to Cart button
+
+
+### 03. Login Form
+
+- Email input
+- Password input
+- Remember me checkbox
+- Login button
