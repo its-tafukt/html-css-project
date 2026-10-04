@@ -3,20 +3,44 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 50px;
 }
+
 .menu{
     display: flex;
     flex-direction: column;
     width: 600px;
     height: fit-content;
-    background-color: rgb(112, 36, 0);
+    background-color: rgb(65, 19, 5);
     padding: 30px;
     border-radius: 20px;
     color: white;
 }
 
-.menui-category ul{
+h1{
+
+    color: white;
+    padding-left: 30%;
+}
+
+p{
+    color: rgb(214, 156, 139);
+    padding-left: 35%;
+}
+.menu-items h2{
+    color: rgb(212, 167, 137);
+}
+
+.menu-items ul{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+
+.menu-items ul li{
     display: flex;
     justify-content: space-between;
-    gap: 10px;
+    width: 100%;
+ 
 }
