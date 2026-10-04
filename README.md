@@ -25,3 +25,12 @@ A collection of A a couple of beginner-friendly projects to practice HTML and CS
 - Password input
 - Remember me checkbox
 - Login button
+
+
+### 04. Restaurant Menu
+
+- Restaurant name
+- Menu categories
+- Food items
+- Prices
+
