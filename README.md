@@ -34,3 +34,11 @@ A collection of A a couple of beginner-friendly projects to practice HTML and CS
 - Food items
 - Prices
 
+
+### 05. Pricing Cards
+
+- Starter plan
+- Pro plan
+- Business plan
+- Features list
+- CTA buttons
